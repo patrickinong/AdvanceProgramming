@@ -1,0 +1,21 @@
+20
+8439, Jake Hobbs, 10,11,10,43
+9123, Emily Rose, 15,14,12,55
+7561, Jermyn Mendoza, 10, 15, 5, 10
+8542, Ricci Miranda, 20, 10, 8, 7
+9632, Chary Clare, 25, 15, 10, 5
+7523, Rizza Mae, 30, 25, 15, 15
+1234, Calvin Klein, 20, 18, 12, 15
+9874, Jose Rizal, 33, 20, 25, 15
+4561, Abdul Mushrif, 40, 30, 15, 10
+5028, Muhamed Abdur, 35, 20, 15, 10
+5555, Aaron Del Mundo, 28, 20, 20, 10
+7878, Gohan Daku, 30, 25, 25, 15
+9090, Jeffrey Jefferson, 25, 20, 20, 15
+4682, Linzie Guitzerez, 22, 18, 12, 10
+7492, Lola Amore, 30, 25, 10, 5
+8263, Decee Jorant, 20, 20, 15, 15
+8121, Jeyson Derulo, 20, 18, 10, 9
+5463, Michelle Jakson, 30, 20, 15, 5
+1474, Jackson Ville, 25, 20, 10, 8
+5454, Willie Kurt, 20, 15, 15, 15
