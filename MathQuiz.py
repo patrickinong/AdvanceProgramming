@@ -45,11 +45,11 @@ def displayResults(score):
     print(f"Your rank: {grade}")
 
 def getDifficultyRange(level):
-    if level == 1:  # Easy
+    if level == 1:  
         return 1, 9
-    elif level == 2:  # Moderate
+    elif level == 2: 
         return 10, 99
-    elif level == 3:  # Advanced
+    elif level == 3:  
         return 1000, 9999
     else:
         print("Invalid difficulty level. Defaulting to Easy.")
